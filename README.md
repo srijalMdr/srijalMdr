@@ -4,9 +4,7 @@ I'm a Computer Science student and a frontend developer with a strong interest i
 
 💡 Interests
 Web Development
-Frontend Design & User Experience# 💫 About Me:
-I'm Srijal Manandhar a CS student <br>Currently a frontend developer <br>have interest in web development👋 Hi, I'm Srijal Manandhar<br><br>I'm a Computer Science student and a frontend developer with a strong interest in web development. I enjoy building clean, responsive, and user-friendly web applications while continuously improving my skills in modern web technologies.<br><br>💡 Interests<br>Web Development<br>Frontend Design & User Experience<br>Building interactive and responsive interfaces<br><br>🚀 Currently<br>Enhancing my frontend development skills<br>Working on real-world web projects<br>Exploring new tools and frameworks
-
+Frontend Design & User Experience
 Building interactive and responsive interfaces
 
 🚀 Currently
