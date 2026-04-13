@@ -1,16 +1,16 @@
-👋 Hi, I'm Srijal Manandhar
+Hi, I'm Srijal Manandhar
 
 I'm a Computer Science student and a frontend developer with a strong interest in web development. I enjoy building clean, responsive, and user-friendly web applications while continuously improving my skills in modern web technologies.
 
-💡 Interests
-Web Development
-Frontend Design & User Experience
-Building interactive and responsive interfaces
+Interests:<br>
+Web Development<br>
+Frontend Design & User Experience<br>
+Building interactive and responsive interfaces<br>
 
-🚀 Currently
-Enhancing my frontend development skills
-Working on real-world web projects
-Exploring new tools and frameworks
+Currently:<br>
+Enhancing my frontend development skills<br>
+Working on real-world web projects<br>
+Exploring new tools and frameworks<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/srijal-manandhar-2a4b1a319/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijalmdr7@gmail.com) 
